@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "Workspace Root"
+		},
+		{
+			"path": "apps/rust"
+		},
+		{
+			"path": "apps/node"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "node_modules/typescript/lib"
+	}
+}
