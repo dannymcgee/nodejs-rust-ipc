@@ -1,13 +1,13 @@
 {
 	"name": "node-ipc-rust",
 	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
+	"description": "Experiments with inter-process communication between a NodeJS front-end and a Rust back-end",
+	"main": "apps/node/src/index.ts",
 	"scripts": {
 		"start": "ts-node apps/node/src/index.ts"
 	},
-	"author": "",
-	"license": "ISC",
+	"author": "Danny McGee <dannymcgee@gmail.com> (https://dannymcgee.io)",
+	"license": "MIT",
 	"devDependencies": {
 		"@types/node": "12",
 		"@types/node-ipc": "^9.1.3",
